@@ -21,4 +21,4 @@ Não é necessário instalar dependências.
 - Chart.js
 
 ## Autor
-[Paulo Emídio](https://github.com/seu-usuario)
+[Paulo Azevedo](https://github.com/seu-usuario)
