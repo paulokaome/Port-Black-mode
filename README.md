@@ -1,4 +1,4 @@
-# Portfólio Paulo Emídio
+# Portfólio Paulo Azevedo
 
 Portfólio pessoal desenvolvido em HTML, Tailwind CSS e JavaScript.
 
